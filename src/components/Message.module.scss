@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.button {
+  width: 6rem;
+  height: 1.75rem;
+  text-align: center;
+  font-weight: 600;
+  font-size: 12pt;
+  user-select: none;
+  background-color: #3333;
+  padding: 0.5rem;
+  padding-bottom: 0rem;
+  border-radius: 1.5rem;
+}
+
+.button:hover {
+  background-color: #2224;
+  cursor: pointer;
+}
