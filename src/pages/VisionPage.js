@@ -35,7 +35,7 @@ export default function VisionPage({ openai }) {
           // Append to the array of the last 'user' message
           formattedMessages[formattedMessages.length - 1].content.push({
             type: "image_url",
-            image_url: { url: message.content },
+            image_url: { url: message.content, detail: "high" },
           });
         } else {
           // If not adjacent or not 'user', create a new message with the image content
