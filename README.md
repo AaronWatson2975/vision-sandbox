@@ -17,7 +17,7 @@ Welcome to Vision Sandbox - a OpenAI Playground clone slapped together in a nigh
 - **GPT Model Support**: Though tailored for GPT-4 Vision, the interface supports text-based interactions with models such as GPT-3.5.
 
 ## Limitations
-- ** Text Image Order**: Right now I believe the text needs to preceed the image, this is something I'll probably fix in the future if I have time.
+- **Text Image Order**: Right now I believe the text needs to preceed the image, this is something I'll probably fix in the future if I have time.
 
 ## Getting Started
 
