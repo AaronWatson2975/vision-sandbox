@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to Vision Sandbox - a OpenAI Playground clone slapped together in a night designed to simplify interactions with the powerful GPT-4 Vision model and text-based models like GPT-3.5. Created out of a desire to explore the capabilities of GPT-4 Vision without the direct use of the API or the constraints of the standard OpenAI playground, this playground clone provides enthusiasts and developers an effortless environment to engage in conversational AI powered by images and text.
+Welcome to Vision Sandbox - a OpenAI Playground clone slapped together in a night designed to simplify interactions with the GPT-4 Vision model and text-based models like GPT-3.5. Created out of a desire to explore the capabilities of GPT-4 Vision without the direct use of the API or the constraints of the standard OpenAI playground, this playground clone provides enthusiasts and developers an effortless environment to engage in conversational AI powered by images and text.
 
 <img width="1303" alt="Screenshot 2023-12-29 at 10 51 52 PM" src="https://github.com/AaronWatson2975/vision-sandbox/assets/36612616/63391cc3-06e0-4bf6-9ff3-fdff9947d7eb">
 
